@@ -1,0 +1,1 @@
+-I"C:\Program Files\Microsoft Visual Studio 8\VC\PlatformSDK\include" -I"C:\Program Files\Microsoft Visual Studio 8\VC\include" -DWIN32 -D_WINDOWSWIN32 -D_WINDOWS -D_near -D_far -Dnear -D__int64=int -nestcomment
